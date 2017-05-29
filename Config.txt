@@ -1,0 +1,3 @@
+name = Alek
+size = 100
+email = alek.hristov@yahoo.com
