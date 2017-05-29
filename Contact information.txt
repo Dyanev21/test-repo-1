@@ -8,8 +8,14 @@ Hi guys! As soon as we need to exchange some information between us, I'm posting
 
 4. Why did you pick SoftUni?
 
-
+I  
 1. Alek Hristov
 2. I'm from Sofia, Bulgaria
 3. I enjoy watching football, drinking rakia and having walks outdoors
 4. I picked Softuni cause my best friends pushed me to. Now I'm really happy with my choice, cause I enjoy studying computer programming very much.
+
+II 
+1. Boris Georgiev
+2. I'm from Blagoevgrad
+3. I enjoy playing basketball
+4. My brother is a php developer and he recommended to me to pick SoftUni
