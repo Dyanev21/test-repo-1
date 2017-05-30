@@ -16,3 +16,9 @@ II
 2. I'm from Blagoevgrad
 3. I enjoy playing basketball
 4. My brother is a php developer and he recommended to me to pick SoftUni
+
+III
+1. Dimitar Yanev
+2. I'm from Sofia
+3. I enjoy doing modified cars.
+4. My friends recommended me to choose with SoftUni.
